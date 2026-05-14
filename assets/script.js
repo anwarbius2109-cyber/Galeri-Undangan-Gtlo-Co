@@ -220,19 +220,29 @@ fetch("data/porto.json")
 
       porto.innerHTML += `
       
-      <div class="overflow-hidden rounded-2xl group">
+      <div class="group">
 
-        <a href="${item.link}" target="_blank">
+  <a href="${item.link}" target="_blank">
 
-          <img 
-            src="${item.gambar}" 
-            alt="${item.nama}"
-            class="w-full aspect-square object-cover transition duration-500 group-hover:scale-105"
-          >
+    <!-- FOTO -->
+    <div class="overflow-hidden rounded-2xl">
 
-        </a>
+      <img 
+        src="${item.gambar}" 
+        alt="${item.nama}"
+        class="w-full aspect-square object-cover transition duration-500 group-hover:scale-105"
+      >
 
-      </div>
+    </div>
+
+    <!-- NAMA -->
+    <div class="mt-2 text-center text-sm md:text-base font-semibold line-clamp-1">
+      ${item.nama}
+    </div>
+
+  </a>
+
+</div>
 
       `;
 
