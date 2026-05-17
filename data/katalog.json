@@ -1,8 +1,29 @@
 [
   {
-    "nama": "Baby Cloud",
-    "gambar": "assets/Baby Cloud.png",
-    "link": "https://id.sudahnikah.com/d/Baby-Cloud?kpd=Tamu+Undangan",
+    "nama": "Pink Party",
+    "gambar": "assets/Pink Party.png",
+    "link": "https://msainvitation.com/preview/pink-party",
+    "kategori": "party&dinner",
+    "keyword": ["pink","balon","cute","anak","ulangtahun","lucu","putih"]
+  },
+  {
+    "nama": "Black Glitter",
+    "gambar": "assets/Black Glitter.png",
+    "link": "https://msainvitation.com/preview/black-glitter",
+    "kategori": "party&dinner",
+    "keyword": ["pink","balon","cute","anak","ulangtahun","lucu","putih"]
+  },
+  {
+    "nama": "Pink Lilac",
+    "gambar": "assets/Pink Lilac.png",
+    "link": "https://msainvitation.com/preview/pink-lilac",
+    "kategori": "party&dinner",
+    "keyword": ["pink","balon","cute","anak","ulangtahun","lucu","putih"]
+  },
+  {
+    "nama": "Black Birthday",
+    "gambar": "assets/Black Birthday.png",
+    "link": "https://msainvitation.com/preview/black-birthday",
     "kategori": "party&dinner",
     "keyword": ["pink","balon","cute","anak","ulangtahun","lucu","putih"]
   },
