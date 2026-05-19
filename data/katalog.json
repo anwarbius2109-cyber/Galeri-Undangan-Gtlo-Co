@@ -1,5 +1,19 @@
 [
   {
+     "nama": "Super Blue",
+    "gambar": "assets/Super Blue.png",
+    "link": "https://id.sudahnikah.com/d/Super-Blue?kpd=Tamu+Undangan",
+    "kategori": "wedding",
+    "keyword": ["biru","mawar","cream","gold","adat","putih"]
+  },
+  {
+    "nama": "Luxury Burgundy V",
+    "gambar": "assets/Luxury Burgundy V.png",
+    "link": "https://id.sudahnikah.com/d/Luxury-Burgundy-V?kpd=Tamu+Undangan",
+    "kategori": "wedding",
+    "keyword": ["java","merah","cream","gold","adat","bugurdy"]
+  },
+  {
     "nama": "Pandora Party",
     "gambar": "assets/Pandora Party.png",
     "link": "https://id.sudahnikah.com/d/Pandora-Party?kpd=Tamu+Undangan",
